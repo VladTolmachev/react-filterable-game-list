@@ -36,11 +36,7 @@ img:first-of-type {
 }
 
 img:hover {
-  transform: scale(1.5)
-}
-
-img:hover {
-  transform: scale(1.5)
+  transform: scale(1.5);
 }
 
 .filter-form {
@@ -49,7 +45,7 @@ img:hover {
 }
 
 .search-input {
-  background-color:rgb(30, 48, 102);
+  background-color: rgb(30, 48, 102);
   border: none;
   padding: 10px;
   min-width: 30%;
@@ -96,7 +92,7 @@ img:hover {
 
 .game-price {
   padding: 10px 20px;
-  background-color:chartreuse;
+  background-color: chartreuse;
   font-weight: bold;
   color: black;
 }
